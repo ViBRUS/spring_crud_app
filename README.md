@@ -1,1 +1,1 @@
-# spring_crud_app
+# Basic CRUD App in Spring
